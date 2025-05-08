@@ -7,7 +7,3 @@ services:
       - "1234:3000"
     deploy:
       replicas: 3
-~                                                                                                                                                                      
-~                                                                                                                                                                      
-~                                                                                                                                                                      
-~                        
