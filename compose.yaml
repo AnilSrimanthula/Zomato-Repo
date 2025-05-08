@@ -4,6 +4,6 @@ services:
   zomato:
     image: anilsrimanthula/kumar:zomato3
     ports:
-      - "1234:3000"
+      - "1111:3000"
     deploy:
       replicas: 3
